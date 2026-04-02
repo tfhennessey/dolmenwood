@@ -1,0 +1,21 @@
+formulas:
+  Untitled: ""
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.folder == "Monsters"
+    order:
+      - file.name
+      - hp
+      - type
+    sort:
+      - property: file.folder
+        direction: ASC
+      - property: file.name
+        direction: DESC
+      - property: formula.Untitled
+        direction: ASC
+  - type: list
+    name: View

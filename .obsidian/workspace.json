@@ -11,13 +11,14 @@
             "id": "e3ce9639327f0176",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Monsters/Untitled.base",
-                "viewName": "Table"
+                "file": "Monsters/Goblin.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "Goblin"
             }
           }
         ]
@@ -182,10 +183,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "e3ce9639327f0176",
+  "active": "36a210bb27f046bd",
   "lastOpenFiles": [
-    "Monsters/Goblin.md",
+    "Settlements",
     "Monsters/Untitled.base",
+    "Monsters/Goblin.md",
     "Untitled.md",
     "Monsters",
     "README.md"

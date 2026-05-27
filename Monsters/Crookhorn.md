@@ -30,7 +30,7 @@ Roam northern Dolmenwood as pillagers, brigands, and burners of villages.Roam no
 
 | Stat   | Value         |
 | ------ | ------------- |
-| Level  |               |
+| Level  | =this.level   |
 | AC     |               |
 | HP     | `dice: `      |
 | Saves  | D  R  H  B  S |

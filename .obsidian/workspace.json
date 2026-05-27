@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Monsters/Crookhorn.md",
+                "file": "Notes/Recap/5-27-26.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Crookhorn"
+              "title": "5-27-26"
             }
           }
         ]
@@ -198,15 +198,14 @@
   },
   "active": "e3ce9639327f0176",
   "lastOpenFiles": [
+    "templates/Monster template.md",
+    "Monsters/Crookhorn.md",
     "2026-05-27.md",
-    "Monsters/Crookhorn.md",
     "templates/monster-template(1).md",
-    "Monsters/Crookhorn.md",
     "Monsters/Crookhorns.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "templates/monster-template.md",
-    "templates/Monster template.md",
     "Monsters/Goblin.md",
     "Monsters/Untitled.base",
     "templates",

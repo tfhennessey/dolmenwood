@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Monsters/Goblin.md",
+                "file": "templates/Monster template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Goblin"
+              "title": "Monster template"
             }
           }
         ]
@@ -191,16 +191,25 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "omnisearch:Omnisearch": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "e3ce9639327f0176",
   "lastOpenFiles": [
-    "Monsters/Untitled.base",
     "Monsters/Goblin.md",
-    "Settlements",
+    "Monsters/Crookhorns.md",
+    "Monsters/Untitled.base",
+    "templates/Monster template.md",
+    "templates",
+    "Notes/Recap/5-27-26.md",
+    "README.md",
+    "Notes/Recap",
+    "Untitled 1.md",
     "Untitled.md",
-    "Monsters",
-    "README.md"
+    "Notes",
+    "Settlements",
+    "Monsters"
   ]
 }

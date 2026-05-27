@@ -2,5 +2,6 @@
   "obsidian-git",
   "obsidian-icon-folder",
   "omnisearch",
-  "templater-obsidian"
+  "templater-obsidian",
+  "dataview"
 ]

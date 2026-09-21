@@ -73,6 +73,8 @@ Sinister spirits made manifest as looming humanoids, cloaked in black, with stag
 
 ## Traits
 
+`dice: [[Antler Wraith^traits]]`
+
 | dice: 1d6 | Trait |
 | --------- | ----- |
 | 1 | Wields a scythe or ancient sword (damage as per touch) |
@@ -84,9 +86,9 @@ Sinister spirits made manifest as looming humanoids, cloaked in black, with stag
 
 ^traits
 
-`dice: [[Antler Wraith^traits]]`
-
 ## Encounters
+
+`dice: [[Antler Wraith^encounters]]`
 
 | dice: 1d4 | Encounter |
 | --------- | --------- |
@@ -97,9 +99,9 @@ Sinister spirits made manifest as looming humanoids, cloaked in black, with stag
 
 ^encounters
 
-`dice: [[Antler Wraith^encounters]]`
-
 ## Lairs
+
+`dice: [[Antler Wraith^lairs]]`
 
 | dice: 1d4 | Lair |
 | --------- | ---- |
@@ -109,5 +111,3 @@ Sinister spirits made manifest as looming humanoids, cloaked in black, with stag
 | 4 | An imposing ring of 5 dolmens, festooned with trailing moss and strings of human skulls. At the centre of the ring is a 10′ deep pit filled with mist and an eerie blue radiance. The wraiths' victims (and their treasures) are cast into the pit. Anyone climbing down must Save Versus Spell or be reduced to terrified babbling for 1d6 days. |
 
 ^lairs
-
-`dice: [[Antler Wraith^lairs]]`

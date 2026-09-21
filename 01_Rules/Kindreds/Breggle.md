@@ -35,34 +35,123 @@ In human settlements within the High Wold, breggles are a commonplace sight, man
 
 A small number of breggle surnames are shared by humans native to the High Wold, the two Kindreds having lived side by side for many centuries.
 
-**Naming a character:** Either choose a first name and surname from the table below, roll for each, or invent something in a similar vein.
+**Naming a character:** Either choose a first name and surname from the tables below, roll for each, or invent something in a similar vein.
 
-`dice: [[Breggle^names]]`
+### Male Names
 
-| dice: 1d20 | Male | Female | Unisex | Surname |
-| ---------- | ---- | ------ | ------ | ------- |
-| 1 | Aedel | Addle | Blathergripe | Aele |
-| 2 | Berrild | Andred | Bluegouge | Braembel |
-| 3 | Bredhr | Blocke | Bockbrugh | Broob |
-| 4 | Draed | Clover | Bockstump | Crump |
-| 5 | Fannigrew | Crewwin | Elbowgen | Drerdl |
-| 6 | Frandorup | Curlip | Forlocke | Frennig |
-| 7 | Grendilore | Eleye | Hwodlow | Grerg |
-| 8 | Grendl | Ellip | Lankshorn | Gripe |
-| 9 | Grewigg | Frannidore | Lockehorn | Llerg |
-| 10 | Hildrup | Ghrend | Longbeard | Llrod |
-| 11 | Hraigl | Grennigore | Longshanks | Lope |
-| 12 | Hwendl | Gwendl | Shankwold | Mashker |
-| 13 | Maybel | Hrannick | Smallbuck | Olledg |
-| 14 | Myrkle | Hwoldrup | Snicklebock | Rheg |
-| 15 | Nannigrew | Lindor | Snidebleat | Shadgore |
-| 16 | Pettigrew | Merrild | Snoode | Shadwell |
-| 17 | Rrhimbr | Smenthard | Underbleat | Shadwicke |
-| 18 | Shord | Snerg | Underbuck | Shandor |
-| 19 | Smethra | Wendlow | Wolder | Shank |
-| 20 | Wheld | Windor | Woldleap | Snerd |
+`dice: [[Breggle^names-male]]`
 
-^names
+| dice: 1d20 | Male |
+| ---------- | ---- |
+| 1 | Aedel |
+| 2 | Berrild |
+| 3 | Bredhr |
+| 4 | Draed |
+| 5 | Fannigrew |
+| 6 | Frandorup |
+| 7 | Grendilore |
+| 8 | Grendl |
+| 9 | Grewigg |
+| 10 | Hildrup |
+| 11 | Hraigl |
+| 12 | Hwendl |
+| 13 | Maybel |
+| 14 | Myrkle |
+| 15 | Nannigrew |
+| 16 | Pettigrew |
+| 17 | Rrhimbr |
+| 18 | Shord |
+| 19 | Smethra |
+| 20 | Wheld |
+
+^names-male
+
+### Female Names
+
+`dice: [[Breggle^names-female]]`
+
+| dice: 1d20 | Female |
+| ---------- | ------ |
+| 1 | Addle |
+| 2 | Andred |
+| 3 | Blocke |
+| 4 | Clover |
+| 5 | Crewwin |
+| 6 | Curlip |
+| 7 | Eleye |
+| 8 | Ellip |
+| 9 | Frannidore |
+| 10 | Ghrend |
+| 11 | Grennigore |
+| 12 | Gwendl |
+| 13 | Hrannick |
+| 14 | Hwoldrup |
+| 15 | Lindor |
+| 16 | Merrild |
+| 17 | Smenthard |
+| 18 | Snerg |
+| 19 | Wendlow |
+| 20 | Windor |
+
+^names-female
+
+### Unisex Names
+
+`dice: [[Breggle^names-unisex]]`
+
+| dice: 1d20 | Unisex |
+| ---------- | ------ |
+| 1 | Blathergripe |
+| 2 | Bluegouge |
+| 3 | Bockbrugh |
+| 4 | Bockstump |
+| 5 | Elbowgen |
+| 6 | Forlocke |
+| 7 | Hwodlow |
+| 8 | Lankshorn |
+| 9 | Lockehorn |
+| 10 | Longbeard |
+| 11 | Longshanks |
+| 12 | Shankwold |
+| 13 | Smallbuck |
+| 14 | Snicklebock |
+| 15 | Snidebleat |
+| 16 | Snoode |
+| 17 | Underbleat |
+| 18 | Underbuck |
+| 19 | Wolder |
+| 20 | Woldleap |
+
+^names-unisex
+
+### Surnames
+
+`dice: [[Breggle^names-surname]]`
+
+| dice: 1d20 | Surname |
+| ---------- | ------- |
+| 1 | Aele |
+| 2 | Braembel |
+| 3 | Broob |
+| 4 | Crump |
+| 5 | Drerdl |
+| 6 | Frennig |
+| 7 | Grerg |
+| 8 | Gripe |
+| 9 | Llerg |
+| 10 | Llrod |
+| 11 | Lope |
+| 12 | Mashker |
+| 13 | Olledg |
+| 14 | Rheg |
+| 15 | Shadgore |
+| 16 | Shadwell |
+| 17 | Shadwicke |
+| 18 | Shandor |
+| 19 | Shank |
+| 20 | Snerd |
+
+^names-surname
 
 ## Backgrounds
 

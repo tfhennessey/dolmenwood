@@ -3,7 +3,8 @@ aliases: []
 tags: [kindred, mortal]
 kindred_type: Mortal
 lifespan: 50 + 2d20 years
-height: Male: 5′4″ + 2d6″ (Medium), Female: 5′ + 2d6″ (Medium)
+height_male: 5′4″ + 2d6″ (Medium) 
+height_female: 5′ + 2d6″ (Medium)
 weight: 120 + 6d10 lbs
 native_languages: Woldish
 source_page: 44

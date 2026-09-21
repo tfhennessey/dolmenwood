@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Rules/blank.md",
+                "file": "01_Rules/Kindreds/Breggle.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "blank"
+              "title": "Breggle"
             }
           }
         ]
@@ -211,9 +211,12 @@
   "active": "e3ce9639327f0176",
   "lastOpenFiles": [
     "z_attachments/Dolmenwood_Player_s_Book.pdf",
+    "01_Rules/Kindreds/Breggle.md",
+    "01_Rules/Kindreds",
+    "z_attachments/Dolmenwood_Blank_Hex_Map_Resized_v2.jpg",
+    "z_attachments/Dolmenwood Player's Map.png",
     "01_Rules/blank.md",
     "z_attachments/Dolmenwood_Campaign_Book.pdf",
-    "z_attachments/Dolmenwood Player's Map.png",
     "02_NPCs/Adventurers/Knight.md",
     "01_Rules",
     "02_NPCs/Monsters/Gloam.md",
@@ -243,7 +246,6 @@
     "z_attachments/Dolmenwood Blank Hex Map.png",
     "2026-05-27.md",
     "02_NPCs",
-    "02_NPCs/Mortals/Pilgrim.md",
     "z_attachments/Dolmenwood_Monster_Book.pdf",
     "02_NPCs/Mortals",
     "02_NPCs/Animals",
@@ -254,9 +256,6 @@
     "z_attachments/monster images/Wyrm—Blood.png",
     "z_attachments/monster images/Wyrm—Black Bile.png",
     "z_attachments/monster images/Wronguncle.png",
-    "z_attachments/monster images/Woodgrue.png",
-    "z_attachments/monster images/Wodewose.png",
-    "z_attachments/monster images",
-    "z_attachments"
+    "z_attachments/monster images/Woodgrue.png"
   ]
 }

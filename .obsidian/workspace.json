@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_NPCs/Adventurers/Knight.md",
+                "file": "01_Rules/blank.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Knight"
+              "title": "blank"
             }
           }
         ]
@@ -210,6 +210,27 @@
   },
   "active": "e3ce9639327f0176",
   "lastOpenFiles": [
+    "z_attachments/Dolmenwood_Player_s_Book.pdf",
+    "01_Rules/blank.md",
+    "z_attachments/Dolmenwood_Campaign_Book.pdf",
+    "z_attachments/Dolmenwood Player's Map.png",
+    "02_NPCs/Adventurers/Knight.md",
+    "01_Rules",
+    "02_NPCs/Monsters/Gloam.md",
+    "02_NPCs/Monsters/Ghoul.md",
+    "02_NPCs/Monsters/Gelatinous Hulk.md",
+    "02_NPCs/Monsters/Gargoyle.md",
+    "02_NPCs/Monsters/Galosher.md",
+    "02_NPCs/Monsters/Fomorian.md",
+    "02_NPCs/Monsters/Fairy Horse.md",
+    "02_NPCs/Monsters/Elf—Wanderer.md",
+    "02_NPCs/Monsters/Elf—Knight.md",
+    "02_NPCs/Monsters/Elf—Courtier.md",
+    "02_NPCs/Monsters/Drune—Drunewife.md",
+    "02_NPCs/Monsters/Drune—Cottager.md",
+    "02_NPCs/Monsters/Drune—Braithmaid.md",
+    "02_NPCs/Monsters/Drune—Audrune.md",
+    "02_NPCs/Monsters/Devil Goat.md",
     "02_NPCs/Adventurers/Magician.md",
     "02_NPCs/Adventurers/Fighter.md",
     "02_NPCs/Adventurers/Friar.md",
@@ -221,29 +242,10 @@
     "Untitled 1.canvas",
     "z_attachments/Dolmenwood Blank Hex Map.png",
     "2026-05-27.md",
-    "z_attachments/Dolmenwood_Campaign_Book.pdf",
     "02_NPCs",
     "02_NPCs/Mortals/Pilgrim.md",
-    "02_NPCs/Mortals/Angler.md",
-    "02_NPCs/Mortals/Merchant.md",
-    "02_NPCs/Mortals/Pedlar.md",
-    "02_NPCs/Adventurers/Enchanter.md",
-    "02_NPCs/Animals/Ant, Giant.md",
     "z_attachments/Dolmenwood_Monster_Book.pdf",
-    "02_NPCs/Monsters/Marsh Lantern.md",
-    "02_NPCs/Monsters/Ogre.md",
-    "02_NPCs/Monsters/Breggle—Longhorn.md",
-    "02_NPCs/Mortals/Priest.md",
-    "02_NPCs/Mortals/Villager.md",
-    "02_NPCs/Mortals/Lost Soul.md",
-    "02_NPCs/Mortals/Fortune-Teller.md",
-    "02_NPCs/Mortals/Crier.md",
     "02_NPCs/Mortals",
-    "02_NPCs/Monsters/Peryton.md",
-    "02_NPCs/Monsters/Onyx Blob.md",
-    "02_NPCs/Monsters/Ochre Slime-Hulk.md",
-    "02_NPCs/Monsters/Nutcap.md",
-    "02_NPCs/Monsters/Mugwudge.md",
     "02_NPCs/Animals",
     "02_NPCs/Adventurers",
     "z_attachments/monster images/Yickerwill.png",
@@ -254,9 +256,7 @@
     "z_attachments/monster images/Wronguncle.png",
     "z_attachments/monster images/Woodgrue.png",
     "z_attachments/monster images/Wodewose.png",
-    "z_attachments/monster images/Witch.png",
     "z_attachments/monster images",
-    "z_attachments",
-    "02_NPCs/Monsters/Untitled.base"
+    "z_attachments"
   ]
 }

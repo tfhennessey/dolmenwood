@@ -29,7 +29,7 @@ source_page: 26
 
 # Cobbin
 
-![[Cobbin.png]]
+![[z_attachments/monster images/Cobbin.png]]
 
 ## At a Glance
 

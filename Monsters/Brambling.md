@@ -28,7 +28,7 @@ source_page: 21
 
 # Brambling
 
-![[Brambling.png]]
+![[z_attachments/monster images/Brambling.png]]
 
 ## At a Glance
 

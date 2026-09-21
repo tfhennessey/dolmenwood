@@ -27,7 +27,7 @@ hoard: C6 + R7 + M4
 source_page: 13
 ---
 
-![[Banshee.png]]
+![[z_attachments/monster images/Banshee.png]]
 
 # Banshee
 

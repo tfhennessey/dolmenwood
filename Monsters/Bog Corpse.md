@@ -27,7 +27,7 @@ hoard: C3 + R3 + M3
 source_page: 17
 ---
 
-![[Bog Corpse.png]]
+![[z_attachments/monster images/Bog Corpse.png]]
 
 # Bog Corpse
 

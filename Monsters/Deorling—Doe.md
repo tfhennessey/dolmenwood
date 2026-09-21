@@ -28,7 +28,7 @@ source_page: 30
 
 # Deorling—Doe
 
-![[Deorling—Doe.png]]
+![[z_attachments/monster images/Deorling—Doe.png]]
 
 ## At a Glance
 

@@ -29,7 +29,7 @@ source_page: 24
 
 # Centaur—Bestial
 
-![[Centaur—Bestial.png]]
+![[z_attachments/monster images/Centaur—Bestial.png]]
 
 ## At a Glance
 

@@ -29,7 +29,7 @@ source_page: 18
 
 # Bog Salamander
 
-![[Bog Salamander.png]]
+![[z_attachments/monster images/Bog Salamander.png]]
 
 ## At a Glance
 

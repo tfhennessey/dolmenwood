@@ -29,7 +29,7 @@ source_page: 23
 
 # Breggle—Shorthorn
 
-![[Breggle—Shorthorn.png]]
+![[z_attachments/monster images/Breggle—Shorthorn.png]]
 
 ## At a Glance
 

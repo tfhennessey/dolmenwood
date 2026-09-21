@@ -28,7 +28,7 @@ source_page: 25
 
 # Centaur—Sylvan
 
-![[Centaur—Sylvan.png]]
+![[z_attachments/monster images/Centaur—Sylvan.png]]
 
 ## At a Glance
 

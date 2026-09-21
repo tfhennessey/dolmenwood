@@ -26,7 +26,7 @@ hoard: None
 source_page: 16
 ---
 
-![[Black Tentacles.png]]
+![[z_attachments/monster images/Black Tentacles.png]]
 
 # Black Tentacles
 

@@ -27,7 +27,7 @@ hoard: C9 + R5 + M10
 source_page: 15
 ---
 
-![[Basilisk.png]]
+![[z_attachments/monster images/Basilisk.png]]
 
 # Basilisk
 

@@ -28,7 +28,7 @@ source_page: 20
 
 # Brainconk
 
-![[Brainconk.png]]
+![[z_attachments/monster images/Brainconk.png]]
 
 ## At a Glance
 

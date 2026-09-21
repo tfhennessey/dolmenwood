@@ -29,7 +29,7 @@ source_page: 27
 
 # Cockatrice
 
-![[Cockatrice.png]]
+![[z_attachments/monster images/Cockatrice.png]]
 
 ## At a Glance
 

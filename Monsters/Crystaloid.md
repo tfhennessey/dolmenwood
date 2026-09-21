@@ -29,7 +29,7 @@ source_page: 29
 
 # Crystaloid
 
-![[Crystaloid.png]]
+![[z_attachments/monster images/Crystaloid.png]]
 
 ## At a Glance
 

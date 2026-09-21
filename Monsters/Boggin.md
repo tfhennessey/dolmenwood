@@ -29,7 +29,7 @@ source_page: 19
 
 # Boggin
 
-![[Boggin.png]]
+![[z_attachments/monster images/Boggin.png]]
 
 ## At a Glance
 

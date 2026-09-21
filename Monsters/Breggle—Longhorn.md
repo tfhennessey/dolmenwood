@@ -29,7 +29,7 @@ source_page: 22
 
 # Breggle—Longhorn
 
-![[Breggle - Longhorn.png]]
+![[z_attachments/monster images/Breggle - Longhorn.png]]
 
 ## At a Glance
 

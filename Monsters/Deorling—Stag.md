@@ -28,7 +28,7 @@ source_page: 31
 
 # Deorling—Stag
 
-![[Deorling—Stag.png]]
+![[z_attachments/monster images/Deorling—Stag.png]]
 
 ## At a Glance
 

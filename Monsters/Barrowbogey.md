@@ -27,7 +27,7 @@ hoard: C4 + R4 + M1 + 4d20 pots or jugs
 source_page: 14
 ---
 
-![[Barrowbogey.png]]
+![[z_attachments/monster images/Barrowbogey.png]]
 
 # Barrowbogey
 

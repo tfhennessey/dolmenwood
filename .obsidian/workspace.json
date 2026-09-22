@@ -176,6 +176,16 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "79894b4aa0161c0e",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
           }
         ],
         "currentTab": 5
@@ -198,7 +208,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e3ce9639327f0176",
+  "active": "789c54a1036c74e4",
   "lastOpenFiles": [
     "02_NPCs/Adventurers/Bard.md",
     "01_Rules/blank.md",

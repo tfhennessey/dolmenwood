@@ -11,14 +11,10 @@
             "id": "e3ce9639327f0176",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_Rules/Classes/Knight.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Knight"
+              "title": "New tab"
             }
           }
         ]
@@ -176,16 +172,6 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "f5454a6532fd3444",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {},
-              "icon": "dices",
-              "title": "Dice Tray"
-            }
           }
         ],
         "currentTab": 5
@@ -208,55 +194,55 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e3ce9639327f0176",
+  "active": "789c54a1036c74e4",
   "lastOpenFiles": [
-    "01_Rules/Classes/Bard.md",
-    "01_Rules/Kindreds/Mossling.md",
-    "01_Rules/Kindreds/Human.md",
-    "01_Rules/Kindreds/Grimalkin.md",
-    "01_Rules/Kindreds/Elf.md",
-    "01_Rules/Kindreds/Breggle.md",
-    "01_Rules/Classes/Thief.md",
-    "01_Rules/Classes/Magician.md",
-    "01_Rules/Classes/Knight.md",
-    "01_Rules/Classes/Hunter.md",
-    "01_Rules/Classes/Friar.md",
-    "01_Rules/Classes/Enchanter.md",
-    "01_Rules/Classes/Fighter.md",
-    "01_Rules/Classes/Cleric.md",
-    "01_Rules/Classes",
-    "z_attachments/Dolmenwood_Player_s_Book.pdf",
-    "01_Rules/Kindreds",
-    "z_attachments/Dolmenwood_Blank_Hex_Map_Resized_v2.jpg",
-    "z_attachments/Dolmenwood Player's Map.png",
-    "01_Rules/blank.md",
-    "z_attachments/Dolmenwood_Campaign_Book.pdf",
-    "02_NPCs/Adventurers/Knight.md",
-    "01_Rules",
-    "02_NPCs/Monsters/Gloam.md",
-    "02_NPCs/Monsters/Ghoul.md",
-    "02_NPCs/Monsters/Gelatinous Hulk.md",
-    "02_NPCs/Monsters/Gargoyle.md",
-    "02_NPCs/Monsters/Galosher.md",
-    "02_NPCs/Monsters/Fomorian.md",
-    "02_NPCs/Monsters/Fairy Horse.md",
-    "02_NPCs/Monsters/Elf—Wanderer.md",
-    "02_NPCs/Monsters/Elf—Knight.md",
-    "02_NPCs/Monsters/Elf—Courtier.md",
-    "00_Notes",
-    "Untitled.canvas",
-    "Untitled 1.canvas",
-    "z_attachments/Dolmenwood Blank Hex Map.png",
-    "02_NPCs",
-    "z_attachments/Dolmenwood_Monster_Book.pdf",
-    "02_NPCs/Mortals",
-    "02_NPCs/Animals",
     "z_attachments/monster images/Yickerwill.png",
     "z_attachments/monster images/Wyrm—Yellow Bile.png",
     "z_attachments/monster images/Wyrm—Phlegm.png",
     "z_attachments/monster images/Wyrm—Blood.png",
     "z_attachments/monster images/Wyrm—Black Bile.png",
     "z_attachments/monster images/Wronguncle.png",
-    "z_attachments/monster images/Woodgrue.png"
+    "z_attachments/monster images/Woodgrue.png",
+    "z_attachments/monster images/Wodewose.png",
+    "z_attachments/monster images/Witch.png",
+    "z_attachments/monster images/Witch Owl.png",
+    "z_attachments/monster images/Wight.png",
+    "z_attachments/monster images",
+    "z_attachments/Dolmenwood_Player_s_Book.pdf",
+    "z_attachments/Dolmenwood_Monster_Book.pdf",
+    "z_attachments/Dolmenwood_Maps_Book.pdf",
+    "z_attachments/Dolmenwood_Campaign_Book.pdf",
+    "z_attachments/Dolmenwood Character Sheet 2025-02-07.pdf",
+    "z_attachments",
+    "02_NPCs/Monsters/Yickerwill.md",
+    "02_NPCs/Monsters/Wyrm—Yellow Bile.md",
+    "02_NPCs/Monsters/Wyrm—Phlegm.md",
+    "02_NPCs/Monsters/Wyrm—Overview.md",
+    "02_NPCs/Monsters/Wyrm—Blood.md",
+    "02_NPCs/Monsters/Wyrm—Black Bile.md",
+    "02_NPCs/Monsters/Wronguncle.md",
+    "02_NPCs/Monsters/Woodgrue.md",
+    "02_NPCs/Monsters/Wodewose.md",
+    "02_NPCs/Monsters/Witch.md",
+    "02_NPCs/Monsters/Witch Owl.md",
+    "02_NPCs/Monsters/Wight.md",
+    "02_NPCs/Monsters/Wicker Giant.md",
+    "02_NPCs/Monsters/Werewolf.md",
+    "02_NPCs/Monsters/Untitled.base",
+    "02_NPCs/Monsters/Unicorn—Corrupt.md",
+    "02_NPCs/Monsters/Unicorn—Blessed.md",
+    "02_NPCs/Monsters/Troll.md",
+    "02_NPCs/Monsters/Treowere.md",
+    "02_NPCs/Monsters/Talking Animal.md",
+    "02_NPCs/Monsters/Sprite.md",
+    "02_NPCs/Monsters/Spectre.md",
+    "02_NPCs/Monsters/Snail, Giant—Psionic.md",
+    "02_NPCs/Monsters/Snail, Giant—Mutant.md",
+    "02_NPCs/Monsters/Skeleton.md",
+    "02_NPCs/Monsters/Shape-Stealer.md",
+    "02_NPCs/Mortals",
+    "02_NPCs/Monsters",
+    "Untitled 1.canvas",
+    "Untitled.canvas"
   ]
 }

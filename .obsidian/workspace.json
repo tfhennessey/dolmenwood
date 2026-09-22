@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_NPCs/Monsters/Gargoyle.md",
+                "file": "02_NPCs/Adventurers/Friar.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gargoyle"
+              "title": "Friar"
             }
           }
         ]
@@ -208,8 +208,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "789c54a1036c74e4",
+  "active": "e3ce9639327f0176",
   "lastOpenFiles": [
+    "02_NPCs/Monsters/Gargoyle.md",
     "02_NPCs/Adventurers/Bard.md",
     "01_Rules/blank.md",
     "01_Rules/Kindreds/Breggle.md",
@@ -253,7 +254,6 @@
     "02_NPCs/Monsters/Talking Animal.md",
     "02_NPCs/Monsters/Sprite.md",
     "02_NPCs/Monsters/Spectre.md",
-    "02_NPCs/Monsters/Snail, Giant—Psionic.md",
     "02_NPCs/Mortals",
     "02_NPCs/Monsters",
     "Untitled 1.canvas",

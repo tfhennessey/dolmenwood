@@ -11,10 +11,14 @@
             "id": "e3ce9639327f0176",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "01_Rules/Kindreds/Breggle.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Breggle"
             }
           }
         ]
@@ -194,7 +198,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "36a210bb27f046bd",
+  "active": "e3ce9639327f0176",
   "lastOpenFiles": [
     "Notes/Recap/5-27-26.md",
     "z_attachments/monster images/Yickerwill.png",

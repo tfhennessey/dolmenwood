@@ -11,14 +11,12 @@
             "id": "e3ce9639327f0176",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "templates/NPC.md",
-                "mode": "source",
-                "source": false
+                "file": "z_attachments/Dolmenwood_Player_s_Book.pdf"
               },
-              "icon": "lucide-file",
-              "title": "NPC"
+              "icon": "lucide-file-text",
+              "title": "Dolmenwood_Player_s_Book"
             }
           }
         ]
@@ -210,20 +208,22 @@
   },
   "active": "e3ce9639327f0176",
   "lastOpenFiles": [
-    "Untitled.md",
-    "templates/monster-template(1).md",
-    "templates/Monster template.md",
-    "templates/NPC.md",
-    "01_Rules/Classes/Knight.md",
-    "templates/scripts/npc.js",
-    "templates/scripts",
-    "NPCs",
-    "01_Rules/Classes/Bard.md",
+    "z_attachments/Dolmenwood Player's Map.png",
     "01_Rules/Kindreds/Mossling.md",
     "01_Rules/Kindreds/Human.md",
     "01_Rules/Kindreds/Grimalkin.md",
     "01_Rules/Kindreds/Elf.md",
     "01_Rules/Kindreds/Breggle.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "templates/NPC.md",
+    "templates/monster-template(1).md",
+    "templates/Monster template.md",
+    "01_Rules/Classes/Knight.md",
+    "templates/scripts/npc.js",
+    "templates/scripts",
+    "NPCs",
+    "01_Rules/Classes/Bard.md",
     "01_Rules/Classes/Thief.md",
     "01_Rules/Classes/Magician.md",
     "01_Rules/Classes/Hunter.md",
@@ -235,7 +235,6 @@
     "z_attachments/Dolmenwood_Player_s_Book.pdf",
     "01_Rules/Kindreds",
     "z_attachments/Dolmenwood_Blank_Hex_Map_Resized_v2.jpg",
-    "z_attachments/Dolmenwood Player's Map.png",
     "01_Rules/blank.md",
     "z_attachments/Dolmenwood_Campaign_Book.pdf",
     "02_NPCs/Adventurers/Knight.md",
@@ -244,8 +243,6 @@
     "02_NPCs/Monsters/Ghoul.md",
     "02_NPCs/Monsters/Gelatinous Hulk.md",
     "02_NPCs/Monsters/Gargoyle.md",
-    "02_NPCs/Monsters/Galosher.md",
-    "02_NPCs/Monsters/Fomorian.md",
     "00_Notes",
     "Untitled.canvas",
     "Untitled 1.canvas",

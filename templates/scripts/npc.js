@@ -9,7 +9,7 @@
 //   3. Reads the class note for level-1 stats (HP, attack, saves, etc.).
 //   4. Returns the full NPC markdown, with results baked in.
 
-const KIND = ["Breggle", "Elf", "Grimalkin", "Human", "Mossling"];
+const KIND = ["Breggle", "Elf", "Grimalkin", "Human", "Mossling", "Woodgrue"];
 const CLS = ["Bard", "Cleric", "Enchanter", "Fighter", "Friar", "Hunter", "Knight", "Magician", "Thief"];
 
 const KIND_DIR = "01_Rules/Kindreds";
@@ -237,7 +237,7 @@ function generate({ kindred, kindredContent, cls, classContent, nameChoice, rng 
   if (fm.armour) out.push(`| Armour | ${fm.armour} |`);
   if (fm.weapons) out.push(`| Weapons | ${fm.weapons} |`);
   out.push("");
-  return out.join("\n");
+  return { name, markdown: out.join("\n") };
 }
 
 // ---- Templater entry point ----
@@ -268,7 +268,13 @@ async function npc(tp) {
     );
   }
 
-  return generate({ kindred, kindredContent, cls, classContent, nameChoice, rng });
+  const { name, markdown } = generate({ kindred, kindredContent, cls, classContent, nameChoice, rng });
+
+  // Auto-title the note with the NPC's name.
+  if (name) {
+    try { await tp.file.rename(name); } catch (e) { /* keep typed filename if rename fails */ }
+  }
+  return markdown;
 }
 
 module.exports = npc;

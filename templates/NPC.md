@@ -1,3 +1,3 @@
 <%*
-tR += await tp.user.npc();
+tR += await tp.user.npc(tp);
 %>

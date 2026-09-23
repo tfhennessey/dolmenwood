@@ -249,8 +249,8 @@ async function npc(tp) {
   const cls = await tp.system.suggester(CLS, CLS, false, "Select class");
   if (!cls) return "";
 
-  const kindredContent = await tp.app.vault.adapter.read(`${KIND_DIR}/${kindred}.md`);
-  const classContent = await tp.app.vault.adapter.read(`${CLASS_DIR}/${cls}.md`);
+  const kindredContent = await app.vault.adapter.read(`${KIND_DIR}/${kindred}.md`);
+  const classContent = await app.vault.adapter.read(`${CLASS_DIR}/${cls}.md`);
   const tables = parseTables(kindredContent);
 
   let nameChoice = null;

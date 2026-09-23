@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_NPCs/Monsters/Breggle—Shorthorn.md",
+                "file": "00_Campaign/NPCs/Prigwort Guards/Arfred Candleswick.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Breggle—Shorthorn"
+              "title": "Arfred Candleswick"
             }
           }
         ]
@@ -210,10 +210,14 @@
   },
   "active": "e3ce9639327f0176",
   "lastOpenFiles": [
+    "00_Campaign/NPCs/Prigwort Guards/Henrick Dunwallow.md",
+    "00_Campaign/NPCs/Prigwort Guards/Arfred Candleswick.md",
+    "00_Campaign/NPCs/Bagnack Wallerbog.md",
+    "00_Campaign/NPCs/Prigwort Guards",
+    "02_NPCs/Monsters/Breggle—Shorthorn.md",
     "templates/monster-template.md",
     "templates/Monster template.md",
     "templates/monster-template(1).md",
-    "NPCs/Bagnack Wallerbog.md",
     "01_Rules/Kindreds/Woodgrue.md",
     "NPCs/Untitled.md",
     "z_attachments/Dolmenwood_Player_s_Book.pdf",
@@ -229,7 +233,7 @@
     "01_Rules/Classes/Knight.md",
     "templates/scripts/npc.js",
     "templates/scripts",
-    "NPCs",
+    "00_Campaign/NPCs",
     "01_Rules/Classes/Bard.md",
     "01_Rules/Classes/Thief.md",
     "01_Rules/Classes/Magician.md",
@@ -241,16 +245,12 @@
     "01_Rules/Classes",
     "01_Rules/Kindreds",
     "z_attachments/Dolmenwood_Blank_Hex_Map_Resized_v2.jpg",
-    "01_Rules/blank.md",
     "z_attachments/Dolmenwood_Campaign_Book.pdf",
-    "02_NPCs/Adventurers/Knight.md",
     "01_Rules",
-    "02_NPCs/Monsters/Gloam.md",
-    "00_Notes",
+    "00_Campaign",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "z_attachments/Dolmenwood Blank Hex Map.png",
-    "02_NPCs",
     "z_attachments/monster images/Yickerwill.png",
     "z_attachments/monster images/Wyrm—Yellow Bile.png",
     "z_attachments/monster images/Wyrm—Phlegm.png",

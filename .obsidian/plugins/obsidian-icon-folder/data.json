@@ -33,6 +33,6 @@
     "useInternalPlugins": false
   },
   "02_NPCs": "🤖",
-  "00_Notes": "📓",
-  "01_Rules": "LiDices"
+  "01_Rules": "LiDices",
+  "00_Campaign": "📓"
 }

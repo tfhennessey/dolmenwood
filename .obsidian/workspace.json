@@ -11,12 +11,14 @@
             "id": "e3ce9639327f0176",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "z_attachments/Dolmenwood_Player_s_Book.pdf"
+                "file": "templates/monster-template.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Dolmenwood_Player_s_Book"
+              "icon": "lucide-file",
+              "title": "monster-template"
             }
           }
         ]
@@ -208,6 +210,13 @@
   },
   "active": "e3ce9639327f0176",
   "lastOpenFiles": [
+    "templates/Monster template.md",
+    "templates/monster-template.md",
+    "templates/monster-template(1).md",
+    "NPCs/Bagnack Wallerbog.md",
+    "01_Rules/Kindreds/Woodgrue.md",
+    "NPCs/Untitled.md",
+    "z_attachments/Dolmenwood_Player_s_Book.pdf",
     "z_attachments/Dolmenwood Player's Map.png",
     "01_Rules/Kindreds/Mossling.md",
     "01_Rules/Kindreds/Human.md",
@@ -217,8 +226,6 @@
     "Untitled 1.md",
     "Untitled.md",
     "templates/NPC.md",
-    "templates/monster-template(1).md",
-    "templates/Monster template.md",
     "01_Rules/Classes/Knight.md",
     "templates/scripts/npc.js",
     "templates/scripts",
@@ -232,7 +239,6 @@
     "01_Rules/Classes/Fighter.md",
     "01_Rules/Classes/Cleric.md",
     "01_Rules/Classes",
-    "z_attachments/Dolmenwood_Player_s_Book.pdf",
     "01_Rules/Kindreds",
     "z_attachments/Dolmenwood_Blank_Hex_Map_Resized_v2.jpg",
     "01_Rules/blank.md",
@@ -240,9 +246,6 @@
     "02_NPCs/Adventurers/Knight.md",
     "01_Rules",
     "02_NPCs/Monsters/Gloam.md",
-    "02_NPCs/Monsters/Ghoul.md",
-    "02_NPCs/Monsters/Gelatinous Hulk.md",
-    "02_NPCs/Monsters/Gargoyle.md",
     "00_Notes",
     "Untitled.canvas",
     "Untitled 1.canvas",

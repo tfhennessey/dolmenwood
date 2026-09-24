@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "z_attachments/Dolmenwood_Monster_Book.pdf"
+                "file": "z_attachments/Dolmenwood_Campaign_Book.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Dolmenwood_Monster_Book"
+              "title": "Dolmenwood_Campaign_Book"
             }
           }
         ]
@@ -209,9 +209,13 @@
   },
   "active": "e3ce9639327f0176",
   "lastOpenFiles": [
-    "00_Campaign/NPCs/Prigwort Guards/Henrick Dunwallow.md",
     "z_attachments/Dolmenwood_Monster_Book.pdf",
+    "z_attachments/Dolmenwood_Player_s_Book.pdf",
+    "z_attachments/Dolmenwood Character Sheet 2025-02-07.pdf",
+    "z_attachments/Dolmenwood Player's Map.png",
+    "z_attachments/Dolmenwood_Blank_Hex_Map_Resized_v2.jpg",
     "z_attachments/Dolmenwood_Campaign_Book.pdf",
+    "00_Campaign/NPCs/Prigwort Guards/Henrick Dunwallow.md",
     "00_Campaign/Session/9-23-26.md",
     "00_Campaign/NPCs/Prigwort Guards/Arfred Candleswick.md",
     "00_Campaign/Recap/5-27-26.md",
@@ -244,9 +248,6 @@
     "z_attachments/monster images/Wronguncle.png",
     "z_attachments/monster images/Woodgrue.png",
     "z_attachments/monster images/Wodewose.png",
-    "z_attachments/monster images/Witch.png",
-    "z_attachments/monster images/Witch Owl.png",
-    "z_attachments/monster images",
     "02_NPCs/Monsters/Yickerwill.md",
     "02_NPCs/Monsters/Wyrm—Yellow Bile.md",
     "02_NPCs/Monsters/Wyrm—Phlegm.md",

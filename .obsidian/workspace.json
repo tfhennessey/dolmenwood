@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "z_attachments/Dolmenwood_Campaign_Book.pdf"
+                "file": "z_attachments/Dolmenwood_Monster_Book.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Dolmenwood_Campaign_Book"
+              "title": "Dolmenwood_Monster_Book"
             }
           }
         ]
@@ -209,10 +209,10 @@
   },
   "active": "e3ce9639327f0176",
   "lastOpenFiles": [
+    "z_attachments/Dolmenwood_Campaign_Book.pdf",
     "00_Campaign/Session/9-23-26.md",
     "00_Campaign/NPCs/Prigwort Guards/Henrick Dunwallow.md",
     "00_Campaign/NPCs/Prigwort Guards/Arfred Candleswick.md",
-    "z_attachments/Dolmenwood_Campaign_Book.pdf",
     "00_Campaign/Recap/5-27-26.md",
     "02_NPCs/Adventurers/Friar.md",
     "templates/scripts/npc.js",

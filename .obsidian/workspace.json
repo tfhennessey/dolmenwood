@@ -11,12 +11,14 @@
             "id": "e3ce9639327f0176",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "z_attachments/Dolmenwood_Campaign_Book.pdf"
+                "file": "00_Campaign/Session/9-30-26.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Dolmenwood_Campaign_Book"
+              "icon": "lucide-file",
+              "title": "9-30-26"
             }
           }
         ]
@@ -78,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.296875
+    "width": 300
   },
   "right": {
     "id": "493249e3728c1821",
@@ -176,7 +178,7 @@
             }
           },
           {
-            "id": "79894b4aa0161c0e",
+            "id": "f5454a6532fd3444",
             "type": "leaf",
             "state": {
               "type": "DICE_ROLLER_VIEW",
@@ -190,8 +192,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,53 +210,53 @@
   },
   "active": "e3ce9639327f0176",
   "lastOpenFiles": [
-    "z_attachments/Dolmenwood_Monster_Book.pdf",
-    "z_attachments/Dolmenwood_Player_s_Book.pdf",
-    "z_attachments/Dolmenwood Character Sheet 2025-02-07.pdf",
-    "z_attachments/Dolmenwood Player's Map.png",
-    "z_attachments/Dolmenwood_Blank_Hex_Map_Resized_v2.jpg",
-    "z_attachments/Dolmenwood_Campaign_Book.pdf",
-    "00_Campaign/NPCs/Prigwort Guards/Henrick Dunwallow.md",
-    "00_Campaign/Session/9-23-26.md",
     "00_Campaign/NPCs/Prigwort Guards/Arfred Candleswick.md",
-    "00_Campaign/Recap/5-27-26.md",
-    "02_NPCs/Adventurers/Friar.md",
+    "00_Campaign/Session/9-30-26.md",
+    "00_Campaign/NPCs/Prigwort Guards/Henrick Dunwallow.md",
+    "00_Campaign/NPCs/Bagnack Wallerbog.md",
+    "00_Campaign/NPCs/Prigwort Guards",
+    "02_NPCs/Monsters/Breggle—Shorthorn.md",
+    "templates/monster-template.md",
+    "templates/Monster template.md",
+    "templates/monster-template(1).md",
+    "01_Rules/Kindreds/Woodgrue.md",
+    "NPCs/Untitled.md",
+    "z_attachments/Dolmenwood_Player_s_Book.pdf",
+    "z_attachments/Dolmenwood Player's Map.png",
+    "01_Rules/Kindreds/Mossling.md",
+    "01_Rules/Kindreds/Human.md",
+    "01_Rules/Kindreds/Grimalkin.md",
+    "01_Rules/Kindreds/Elf.md",
+    "01_Rules/Kindreds/Breggle.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "templates/NPC.md",
+    "01_Rules/Classes/Knight.md",
     "templates/scripts/npc.js",
     "templates/scripts",
-    "templates/NPC.md",
-    "Untitled.md",
-    "Untitled 1.md",
-    "01_Rules/Kindreds/Woodgrue.md",
-    "00_Campaign/Session/9-9-26.md",
-    "00_Campaign/Session/9-2-26.md",
-    "00_Campaign/Session/8-26-26.md",
-    "00_Campaign/NPCs/Prigwort Guards",
-    "00_Campaign/NPCs/Bagnack Wallerbog.md",
-    "00_Campaign/Session",
-    "00_Campaign/Recap",
     "00_Campaign/NPCs",
+    "01_Rules/Classes/Bard.md",
+    "01_Rules/Classes/Thief.md",
+    "01_Rules/Classes/Magician.md",
+    "01_Rules/Classes/Hunter.md",
+    "01_Rules/Classes/Friar.md",
+    "01_Rules/Classes/Enchanter.md",
+    "01_Rules/Classes/Fighter.md",
+    "01_Rules/Classes",
+    "01_Rules/Kindreds",
+    "z_attachments/Dolmenwood_Blank_Hex_Map_Resized_v2.jpg",
+    "z_attachments/Dolmenwood_Campaign_Book.pdf",
+    "01_Rules",
     "00_Campaign",
-    "02_NPCs/Monsters/Gargoyle.md",
-    "02_NPCs/Adventurers/Bard.md",
-    "01_Rules/blank.md",
-    "01_Rules/Kindreds/Breggle.md",
-    "Notes/Recap/5-27-26.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "z_attachments/Dolmenwood Blank Hex Map.png",
     "z_attachments/monster images/Yickerwill.png",
     "z_attachments/monster images/Wyrm—Yellow Bile.png",
     "z_attachments/monster images/Wyrm—Phlegm.png",
     "z_attachments/monster images/Wyrm—Blood.png",
     "z_attachments/monster images/Wyrm—Black Bile.png",
     "z_attachments/monster images/Wronguncle.png",
-    "z_attachments/monster images/Woodgrue.png",
-    "z_attachments/monster images/Wodewose.png",
-    "02_NPCs/Monsters/Yickerwill.md",
-    "02_NPCs/Monsters/Wyrm—Yellow Bile.md",
-    "02_NPCs/Monsters/Wyrm—Phlegm.md",
-    "02_NPCs/Monsters/Wyrm—Overview.md",
-    "02_NPCs/Monsters/Wyrm—Blood.md",
-    "02_NPCs/Monsters/Wyrm—Black Bile.md",
-    "02_NPCs/Monsters/Wronguncle.md",
-    "Untitled 1.canvas",
-    "Untitled.canvas"
+    "z_attachments/monster images/Woodgrue.png"
   ]
 }

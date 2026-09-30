@@ -71,28 +71,28 @@ The names listed are typical of the everyday folk in Dolmenwood and its surround
 
 `dice: [[Human^names-female]]`
 
-| dice: 1d20 | Female |
-| ---------- | ------ |
-| 1 | Agnel |
-| 2 | Amonie |
-| 3 | Celenia |
-| 4 | Emelda |
-| 5 | Gertwinne |
-| 6 | Gilly |
-| 7 | Gretchen |
-| 8 | Gwendolyne |
-| 9 | Hilda |
-| 10 | Illabell |
-| 11 | Katerynne |
-| 12 | Lillibeth |
-| 13 | Lillith |
-| 14 | Lisabeth |
-| 15 | Mabel |
-| 16 | Maydrid |
-| 17 | Melysse |
-| 18 | Molly |
-| 19 | Pansy |
-| 20 | Roese |
+| dice: 1d20 | Female     |
+| ---------- | ---------- |
+| 1          | Agnel      |
+| 2          | Amonie     |
+| 3          | Celenia    |
+| 4          | Emelda     |
+| 5          | Gertwinne  |
+| 6          | Gilly      |
+| 7          | Gretchen   |
+| 8          | Gwendolyne |
+| 9          | Hilda      |
+| 10         | Illabell   |
+| 11         | Katerynne  |
+| 12         | Lillibeth  |
+| 13         | Lillith    |
+| 14         | Lisabeth   |
+| 15         | Mabel      |
+| 16         | Maydrid    |
+| 17         | Melysse    |
+| 18         | Molly      |
+| 19         | Pansy      |
+| 20         | Roese      |
 
 ^names-female
 

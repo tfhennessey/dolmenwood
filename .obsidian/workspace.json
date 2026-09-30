@@ -11,12 +11,14 @@
             "id": "e3ce9639327f0176",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "z_attachments/Dolmenwood_Campaign_Book.pdf"
+                "file": "00_Campaign/Session/9-30-26.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Dolmenwood_Campaign_Book"
+              "icon": "lucide-file",
+              "title": "9-30-26"
             }
           }
         ]
@@ -208,6 +210,7 @@
   },
   "active": "e3ce9639327f0176",
   "lastOpenFiles": [
+    "z_attachments/Dolmenwood_Campaign_Book.pdf",
     "00_Campaign/Session/9-30-26.md",
     "00_Campaign/NPCs/Prigwort Guards/Arfred Candleswick.md",
     "00_Campaign/NPCs/Prigwort Guards/Henrick Dunwallow.md",
@@ -239,11 +242,9 @@
     "01_Rules/Classes/Hunter.md",
     "01_Rules/Classes/Friar.md",
     "01_Rules/Classes/Enchanter.md",
-    "01_Rules/Classes/Fighter.md",
     "01_Rules/Classes",
     "01_Rules/Kindreds",
     "z_attachments/Dolmenwood_Blank_Hex_Map_Resized_v2.jpg",
-    "z_attachments/Dolmenwood_Campaign_Book.pdf",
     "01_Rules",
     "00_Campaign",
     "Untitled.canvas",

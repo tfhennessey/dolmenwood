@@ -46,7 +46,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -234,10 +234,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a49bab954ef25425",
+  "active": "81e0127592cfcacc",
   "lastOpenFiles": [
-    "z_attachments/Dolmenwood_Player_s_Book.pdf",
     "z_attachments/Dolmenwood_Campaign_Book.pdf",
+    "z_attachments/Dolmenwood_Player_s_Book.pdf",
     "z_attachments/Dolmenwood_Maps_Book.pdf",
     "z_attachments/Dolmenwood_Monster_Book.pdf",
     "00_Campaign/NPCs/Brom Wolder.md",

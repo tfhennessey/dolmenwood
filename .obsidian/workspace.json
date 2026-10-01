@@ -46,7 +46,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -234,15 +234,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "81e0127592cfcacc",
+  "active": "a49bab954ef25425",
   "lastOpenFiles": [
+    "z_attachments/Dolmenwood_Player_s_Book.pdf",
     "z_attachments/Dolmenwood_Maps_Book.pdf",
     "z_attachments/Dolmenwood_Campaign_Book.pdf",
     "00_Campaign/Session/9-30-26.md",
     "z_attachments/Dolmenwood_Monster_Book.pdf",
     "templates/Monster template.md",
     "templates/monster-template.md",
-    "z_attachments/Dolmenwood_Player_s_Book.pdf",
     "z_attachments/Dolmenwood Character Sheet 2025-02-07.pdf",
     "z_attachments/Dolmenwood Player's Map.png",
     "z_attachments/Dolmenwood_Blank_Hex_Map_Resized_v2.jpg",

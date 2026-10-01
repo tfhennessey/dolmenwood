@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_Campaign/Session/9-30-26.md",
+                "file": "00_Campaign/NPCs/Brom Wolder.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9-30-26"
+              "title": "Brom Wolder"
             }
           },
           {
@@ -237,9 +237,15 @@
   },
   "active": "e3ce9639327f0176",
   "lastOpenFiles": [
+    "00_Campaign/Session/9-30-26.md",
+    "02_NPCs/Adventurers/Hunter.md",
+    "02_NPCs/Adventurers/Bard.md",
+    "00_Campaign/Session/8-26-26.md",
+    "00_Campaign/Session/9-2-26.md",
+    "00_Campaign/Session/9-9-26.md",
+    "00_Campaign/Session/9-23-26.md",
     "00_Campaign/NPCs/Brom Wolder.md",
     "z_attachments/Dolmenwood_Player_s_Book.pdf",
-    "00_Campaign/Session/9-30-26.md",
     "00_Campaign/NPCs/Bagnack Wallerbog.md",
     "00_Campaign/NPCs/Prigwort Guards/Arfred Candleswick.md",
     "z_attachments/Dolmenwood_Campaign_Book.pdf",
@@ -251,7 +257,6 @@
     "z_attachments/Dolmenwood Player's Map.png",
     "z_attachments/Dolmenwood_Blank_Hex_Map_Resized_v2.jpg",
     "00_Campaign/NPCs/Prigwort Guards/Henrick Dunwallow.md",
-    "00_Campaign/Session/9-23-26.md",
     "00_Campaign/Recap/5-27-26.md",
     "02_NPCs/Adventurers/Friar.md",
     "templates/scripts/npc.js",
@@ -260,14 +265,10 @@
     "Untitled.md",
     "Untitled 1.md",
     "01_Rules/Kindreds/Woodgrue.md",
-    "00_Campaign/Session/9-9-26.md",
-    "00_Campaign/Session/9-2-26.md",
-    "00_Campaign/Session/8-26-26.md",
     "00_Campaign/NPCs/Prigwort Guards",
     "00_Campaign/Session",
     "00_Campaign/Recap",
     "02_NPCs/Monsters/Gargoyle.md",
-    "02_NPCs/Adventurers/Bard.md",
     "01_Rules/blank.md",
     "01_Rules/Kindreds/Breggle.md",
     "Notes/Recap/5-27-26.md",

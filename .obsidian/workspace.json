@@ -6,7 +6,7 @@
       {
         "id": "fc6f4e5c556a3a96",
         "type": "tabs",
-        "dimension": 26.14213197969543,
+        "dimension": 65.16497461928934,
         "children": [
           {
             "id": "e3ce9639327f0176",
@@ -27,7 +27,7 @@
       {
         "id": "774b315bad917cf5",
         "type": "tabs",
-        "dimension": 73.85786802030458,
+        "dimension": 34.83502538071066,
         "children": [
           {
             "id": "7f20d6e0cf83a74e",
@@ -229,13 +229,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7f20d6e0cf83a74e",
+  "active": "e3ce9639327f0176",
   "lastOpenFiles": [
+    "z_attachments/Dolmenwood_Campaign_Book.pdf",
     "00_Campaign/Session/10-7-26.md",
     "00_Campaign/Session/9-30-26.md",
     "00_Campaign/Session/9-30-26.md~",
     "00_Campaign/NPCs/Brom Wolder.md",
-    "z_attachments/Dolmenwood_Campaign_Book.pdf",
     "01_Rules/Classes/Magician.md",
     "01_Rules/Classes/Enchanter.md",
     "01_Rules/Kindreds/Human.md",
@@ -265,7 +265,6 @@
     "00_Campaign/NPCs",
     "01_Rules/Classes/Bard.md",
     "01_Rules/Classes/Thief.md",
-    "01_Rules/Classes/Hunter.md",
     "01_Rules/Classes",
     "01_Rules/Kindreds",
     "z_attachments/Dolmenwood_Blank_Hex_Map_Resized_v2.jpg",

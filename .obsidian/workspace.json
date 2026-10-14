@@ -21,8 +21,21 @@
               "icon": "lucide-file",
               "title": "10-7-26"
             }
+          },
+          {
+            "id": "8025e4c1dfb957f7",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.14.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.14.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "774b315bad917cf5",
@@ -229,7 +242,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e3ce9639327f0176",
+  "active": "8025e4c1dfb957f7",
   "lastOpenFiles": [
     "z_attachments/Dolmenwood_Campaign_Book.pdf",
     "00_Campaign/Session/10-7-26.md",

@@ -6,7 +6,6 @@
       {
         "id": "fc6f4e5c556a3a96",
         "type": "tabs",
-        "dimension": 31.027918781725887,
         "children": [
           {
             "id": "e3ce9639327f0176",
@@ -33,28 +32,23 @@
               "icon": "lucide-book-up",
               "title": "Release Notes 1.14.4"
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "774b315bad917cf5",
-        "type": "tabs",
-        "dimension": 68.97208121827411,
-        "children": [
+          },
           {
-            "id": "7f20d6e0cf83a74e",
+            "id": "695c2b0f68f3bedf",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "z_attachments/Dolmenwood_Campaign_Book.pdf"
+                "file": "00_Campaign/Session/10-14-26.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Dolmenwood_Campaign_Book"
+              "icon": "lucide-file",
+              "title": "10-14-26"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -225,8 +219,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -242,10 +235,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8025e4c1dfb957f7",
+  "active": "695c2b0f68f3bedf",
   "lastOpenFiles": [
-    "z_attachments/Dolmenwood_Campaign_Book.pdf",
+    "conflict-files-obsidian-git.md",
+    "00_Campaign/Session/10-14-26.md",
     "00_Campaign/Session/10-7-26.md",
+    "Untitled.base",
+    "Untitled 1.base",
+    "2026-10-07.md",
+    "z_attachments/Dolmenwood_Campaign_Book.pdf",
     "00_Campaign/Session/9-30-26.md",
     "00_Campaign/Session/9-30-26.md~",
     "00_Campaign/NPCs/Brom Wolder.md",
@@ -276,10 +274,6 @@
     "templates/scripts/npc.js",
     "templates/scripts",
     "00_Campaign/NPCs",
-    "01_Rules/Classes/Bard.md",
-    "01_Rules/Classes/Thief.md",
-    "01_Rules/Classes",
-    "01_Rules/Kindreds",
     "z_attachments/Dolmenwood_Blank_Hex_Map_Resized_v2.jpg",
     "Untitled.canvas",
     "Untitled 1.canvas",
